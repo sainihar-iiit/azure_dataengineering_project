@@ -1,0 +1,15 @@
+{
+	"name": "df-learning-nihar-project",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b53ac2b9-afb6-4ffa-8d77-4dee56c0c737",
+		"tenantId": "6441a2e7-c1c2-4f64-b670-ad879044a88c"
+	}
+}
